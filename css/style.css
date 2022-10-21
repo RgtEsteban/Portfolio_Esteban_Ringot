@@ -241,7 +241,7 @@ section{
 }
 
 .about .row .box-container .box h3{
-    font-size: 5rem;
+    font-size: 3rem;
     color:var(--black);
     line-height: 1.1;
 }
